@@ -1491,6 +1491,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.google.GTL;
 				PRODUCT_NAME = GTL;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -1512,6 +1513,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.google.GTL;
 				PRODUCT_NAME = GTL;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				STRIP_STYLE = "non-global";
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
