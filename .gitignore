@@ -24,3 +24,6 @@ xcuserdata/
 
 # Any place they exist.
 .DS_Store
+Source/GTLCore.xcodeproj/xcshareddata/xcschemes/iOS Framework and Tests.xcscheme
+Source/GTLCore.xcodeproj/xcshareddata/xcschemes/OS X Dev Tool.xcscheme
+Source/GTLCore.xcodeproj/xcshareddata/xcschemes/OS X Framework and Tests.xcscheme
